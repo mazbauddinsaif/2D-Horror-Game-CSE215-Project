@@ -13,8 +13,8 @@ public class HorrorGame extends JFrame {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setResizable(false);
 
-        GamePanel gamePanel = new GamePanel();
-        frame.add(gamePanel);
+        // GamePanel gamePanel = new GamePanel();
+        // frame.add(gamePanel);
         
         frame.pack(); // Ensure the size according to the internal components
         frame.setLocationRelativeTo(null); 
