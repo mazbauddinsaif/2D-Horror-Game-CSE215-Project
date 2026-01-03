@@ -5,7 +5,7 @@ import java.io.File;
 import java.io.IOException;
 
 public class AudioPlayer {
-    private static final String MUSIC_FOLDER = "C:\\Users\\soaib\\Desktop\\Escape From The Ghost\\Escape From The Ghost\\Music\\";
+    private static final String MUSIC_FOLDER = "D:\\North South University\\2nd Semester (10)\\CSE215\\Lab 253\\Project\\2D-Horror-Game-CSE215-Project\\Escape From The Ghost\\Music\\";
     private final String COIN_SOUND_PATH = MUSIC_FOLDER + "Coin.wav";
     private final String KEY_SOUND_PATH = MUSIC_FOLDER + "key.wav";
     private final String CAUGHT_SOUND_PATH = MUSIC_FOLDER + "caught.wav";

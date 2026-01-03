@@ -3,18 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/soaib/Desktop/Escape%20From%20The%20Ghost/Escape%20From%20The%20Ghost/src/game/data/GameHistory.java</file>
-            <file>file:/C:/Users/soaib/Desktop/Escape%20From%20The%20Ghost/Escape%20From%20The%20Ghost/src/game/data/AudioPlayer.java</file>
-            <file>file:/C:/Users/soaib/Desktop/Escape%20From%20The%20Ghost/Escape%20From%20The%20Ghost/src/game/main/HorrorGame.java</file>
-            <file>file:/C:/Users/soaib/Desktop/Escape%20From%20The%20Ghost/Escape%20From%20The%20Ghost/src/game/core/GamePanel.java</file>
-            <file>file:/C:/Users/soaib/Desktop/Escape%20From%20The%20Ghost/Escape%20From%20The%20Ghost/src/game/data/GameRecord.java</file>
-            <file>file:/C:/Users/soaib/Desktop/Escape%20From%20The%20Ghost/Escape%20From%20The%20Ghost/src/game/core/GameState.java</file>
-            <file>file:/C:/Users/soaib/Desktop/Escape%20From%20The%20Ghost/Escape%20From%20The%20Ghost/src/game/entities/Entity.java</file>
-            <file>file:/C:/Users/soaib/Desktop/Escape%20From%20The%20Ghost/Escape%20From%20The%20Ghost/src/game/entities/Ghost.java</file>
-            <file>file:/C:/Users/soaib/Desktop/Escape%20From%20The%20Ghost/Escape%20From%20The%20Ghost/src/game/entities/Player.java</file>
-            <file>file:/C:/Users/soaib/Desktop/Escape%20From%20The%20Ghost/Escape%20From%20The%20Ghost/src/game/objects/Door.java</file>
-            <file>file:/C:/Users/soaib/Desktop/Escape%20From%20The%20Ghost/Escape%20From%20The%20Ghost/src/game/objects/GameObject.java</file>
-            <file>file:/C:/Users/soaib/Desktop/Escape%20From%20The%20Ghost/Escape%20From%20The%20Ghost/src/game/objects/Item.java</file>
+            <file>file:/D:/North%20South%20University/2nd%20Semester%20(10)/CSE215/Lab%20253/Project/2D-Horror-Game-CSE215-Project/Escape%20From%20The%20Ghost/src/game/main/HorrorGame.java</file>
+            <file>file:/D:/North%20South%20University/2nd%20Semester%20(10)/CSE215/Lab%20253/Project/2D-Horror-Game-CSE215-Project/Escape%20From%20The%20Ghost/src/game/data/AudioPlayer.java</file>
+            <file>file:/D:/North%20South%20University/2nd%20Semester%20(10)/CSE215/Lab%20253/Project/2D-Horror-Game-CSE215-Project/Escape%20From%20The%20Ghost/src/game/core/GamePanel.java</file>
         </group>
     </open-files>
 </project-private>
